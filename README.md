@@ -1,9 +1,9 @@
 # AdventureWorks2020-Korean
-AdventureWorks 데이터는 Microsoft에서 SQL Server 사용 연습을 위해 만든 샘플용 데이터입니다. 해당 데이터 중 일부를 한글로 번역 및 현지화하여 공유합니다. 원본 데이터 출처는 아래와 같습니다. 
+AdventureWorks 데이터는 Microsoft에서 SQL Server 사용 연습을 위해 만든 샘플용 데이터입니다. 해당 데이터 중 일부를 [한글로 번역 및 현지화하여 공유](https://github.com/EDA-study/AdventureWorks2020-Korean/tree/main/data)합니다. 원본 데이터 출처는 아래와 같습니다. 
   1. [Microsoft에서 제공하는 공식 원본](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
   2. [1번 데이터 중 일부를 CSV 형태로 가공한 파일](https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables/data)
 
-본 데이터는 2번 데이터를 가지고 번역 및 현지화를 진행했습니다. 
+[본 데이터](https://github.com/EDA-study/AdventureWorks2020-Korean/tree/main/data)는 2번 데이터를 가지고 번역 및 현지화를 진행했습니다. 
 
 _참고: 구분자는 comma가 아닌 tab으로 구분되어 있습니다._
 
