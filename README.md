@@ -5,6 +5,8 @@ AdventureWorks 데이터는 Microsoft에서 SQL Server 사용 연습을 위해 �
 
 본 데이터는 2번 데이터를 가지고 번역 및 현지화를 진행했습니다. 
 
+_참고: 구분자는 comma가 아닌 tab으로 구분되어 있습니다._
+
 ## 데이터별 번역 및 현지화 과정
 
 ### Product_ko.csv
